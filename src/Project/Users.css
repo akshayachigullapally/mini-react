@@ -1,0 +1,27 @@
+.usercard{
+    background-color:  rgb(228, 207, 85);
+}
+.editform{
+    background-color: rgb(216, 225, 153);
+}
+.emoji-icon {
+    font-size: 40px; /* Increased size */
+    color: #FFD700;
+    transition: transform 0.3s ease, color 0.3s ease; /* Smooth transition for hover */
+  }
+  
+  .emoji-icon:hover {
+    transform: scale(1.2); /* Scale up on hover */
+    color: #FF5733; /* Change color on hover */
+    animation: bounce 1s infinite; /* Add a bounce effect */
+  }
+  
+  @keyframes bounce {
+    0%, 100% {
+      transform: translateY(0);
+    }
+    50% {
+      transform: translateY(-5px); /* Move up */
+    }
+  }
+  

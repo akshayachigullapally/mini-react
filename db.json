@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": "1a02",
+      "username": "raja",
+      "email": "akshayachigullapally1@gmail.com",
+      "dob": "2024-10-10",
+      "phoneno": "8919314789",
+      "address": "Partially street siddipet",
+      "aboutMe": "Nov 7..!"
+    },
+    {
+      "id": "efac",
+      "username": "raja",
+      "email": "akshayachigullapally1@gmail.com",
+      "dob": "2024-10-09",
+      "phoneno": "8919314789",
+      "address": "Partially street siddipet",
+      "aboutMe": "birthday coming"
+    }
+  ]
+}

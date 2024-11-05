@@ -1,0 +1,26 @@
+/* RemovedUsers.css */
+
+.removed-emoji {
+    font-size: 35px; /* Adjusted size for this section */
+    color: #FF6347;
+    transition: transform 0.3s ease, color 0.3s ease; /* Smooth transition for hover */
+  }
+  
+  .removed-emoji:hover {
+    transform: scale(1.2) rotate(10deg); /* Scale and slight rotation on hover */
+    color: #FF4500; /* Change color on hover */
+    animation: shake 0.5s infinite; /* Add shake effect */
+  }
+  
+  @keyframes shake {
+    0%, 100% {
+      transform: translateX(0);
+    }
+    25% {
+      transform: translateX(-2px);
+    }
+    75% {
+      transform: translateX(2px);
+    }
+  }
+  
